@@ -27,7 +27,7 @@
      ========================================================= -->
 ### 🧑‍💻 About Me
 
-- 🔭 Currently building **[Reboundr](https://github.com/aeomantic/Reboundr)** and contributing to the **SIM IT Club**
+- 🔭 Exploring new project ideas — open to collaborating
 - 🌱 Sharpening my full-stack skills — clean architecture, automation, and shipping fast
 - 🧩 I enjoy taking a vague idea and turning it into something that actually works
 - 📫 Reach me via the links above
