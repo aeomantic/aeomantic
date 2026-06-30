@@ -61,14 +61,6 @@
 
 ---
 
-<!-- =========================================================
-     TROPHIES
-     ========================================================= -->
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aeomantic&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
 
 ---
 
