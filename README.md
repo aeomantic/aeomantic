@@ -4,7 +4,7 @@
 <h1 align="center">Hey, I'm Ameer 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=540&lines=Full-stack+developer+based+in+Singapore+%F0%9F%87%B8%F0%9F%87%AC;TypeScript+%E2%80%A2+Python+%E2%80%A2+Laravel;Turning+rough+ideas+into+shipped+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&height=45&lines=Full-stack+developer+based+in+Singapore;TypeScript+%E2%80%A2+Python+%E2%80%A2+Laravel;Turning+rough+ideas+into+shipped+projects" alt="Typing SVG" />
 </p>
 
 <!-- =========================================================
